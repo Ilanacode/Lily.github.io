@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="LilyBOXSizing2.css"/>
+    <title>Document</title>
+</head>
+<body>
+    <div class="background">
+      <nav>
+    <a href="./Lily.html" id="top" class="linkcolor">Lily</a>
+    <a href="./Ilana.html" class="linkcolor">About Ilana</a>
+      </nav>
+    
+    <main>
+      <section>
+    <h1 class="LilyFirstTitle">Things And Objects That Allude To Lily Tamara</h1>
+      </section>
+    <nav>
+    <ul class="lists">
+        <li><a href="#Lily" class="linkcolor">Lily</a></li>
+        <li><a href="#Cactus" class="linkcolor">Prickly Cactus Pear</a></li>
+        <li><a href="#Date" class="linkcolor">Date (Tamar)</a></li>
+        <li><a href="#London" class="linkcolor">London Town</a></li>
+        <li><a  class="linkcolor" href="#England">England</a></li>
+    </ul>
+    </nav>
+    <div id="Lily">
+  <h2>Lily (Lillium)</h2>
+  <h3>Species</h3>
+  <p>Fruitcake sweet marshmallow tart topping cupcake icing. Gingerbread pie icing jelly danish 
+    chocolate shortbread chocolate cake. Sweet roll topping liquorice gingerbread pastry toffee candy 
+    liquorice lemon drops. Gummi bears bonbon halvah cheesecake sweet roll chocolate cake pudding tiramisu. 
+    Tart jelly beans icing oat cake sweet cotton candy. Cheesecake fruitcake liquorice cheesecake halvah caramels 
+    gingerbread gummies. Dessert dessert gingerbread shortbread dragée sweet. Croissant gummi bears cookie powder 
+    lemon drops biscuit marshmallow sweet dessert. Pie toffee croissant biscuit soufflé marshmallow gummi bears. 
+    Lemon drops biscuit sugar plum cotton candy lollipop powder. Cupcake macaroon fruitcake cake chocolate cake 
+    sesame snaps sweet. Liquorice donut pastry halvah lollipop ice cream sweet caramels. 
+    Icing cake jelly jelly jelly-o fruitcake</p>
+  <ul></ul>
+  <h3>Features</h3>
+  <p>Fruitcake sweet marshmallow tart topping cupcake icing. Gingerbread pie icing jelly danish 
+    chocolate shortbread chocolate cake. Sweet roll topping liquorice gingerbread pastry toffee candy 
+    liquorice lemon drops. Gummi bears bonbon halvah cheesecake sweet roll chocolate cake pudding tiramisu. 
+    Tart jelly beans icing oat cake sweet cotton candy. Cheesecake fruitcake liquorice cheesecake halvah caramels 
+    gingerbread gummies. Dessert dessert gingerbread shortbread dragée sweet. Croissant gummi bears cookie powder 
+    lemon drops biscuit marshmallow sweet dessert. Pie toffee croissant biscuit soufflé marshmallow gummi bears. 
+    Lemon drops biscuit sugar plum cotton candy lollipop powder. Cupcake macaroon fruitcake cake chocolate cake 
+    sesame snaps sweet. Liquorice donut pastry halvah lollipop ice cream sweet caramels. 
+    Icing cake jelly jelly jelly-o fruitcake</p>
+  <h2>Habitat</h2>
+  <p>Fruitcake sweet marshmallow tart topping cupcake icing. Gingerbread pie icing jelly danish 
+    chocolate shortbread chocolate cake. Sweet roll topping liquorice gingerbread pastry toffee candy 
+    liquorice lemon drops. Gummi bears bonbon halvah cheesecake sweet roll chocolate cake pudding tiramisu. 
+    Tart jelly beans icing oat cake sweet cotton candy. Cheesecake fruitcake liquorice cheesecake halvah caramels 
+    gingerbread gummies. Dessert dessert gingerbread shortbread dragée sweet. Croissant gummi bears cookie powder 
+    lemon drops biscuit marshmallow sweet dessert. Pie toffee croissant biscuit soufflé marshmallow gummi bears. 
+    Lemon drops biscuit sugar plum cotton candy lollipop powder. Cupcake macaroon fruitcake cake chocolate cake 
+    sesame snaps sweet. Liquorice donut pastry halvah lollipop ice cream sweet caramels. 
+    Icing cake jelly jelly jelly-o fruitcake</p>
+    </main>
+
+    <div class="Lily">
+    <section>
+  <h3>Countries with Large Lily Populations</h3>
+  
+  
+  <ol class="lists">
+    <li>England</li>
+    <li>Israel</li>
+    <li>Madagascar</li>
+    <li>Italy</li>
+  </ol>
+  <h3>Countries where Lillies are Spare</h3>
+  <ol class="lists">
+    <li>Colombia</li>
+    <li>Canada</li>
+    <li>The Netherlands</li>
+    <li>Peru</li>
+  </ol>
+  <h2>Media</h2>
+  </div>
+</section>
+    </div>
+<section>
+  <div id="Cactus">
+  <h2>Prickly Cactus Pear</h2>
+  <h3>Species</h3>
+  <ul></ul>
+  <h3>Features</h3>
+  <a href="https://en.wikipedia.org/wiki/Opuntia" class="linkcolor">Learn More About Sabras Here</a>
+  <p>Fruitcake sweet marshmallow tart topping cupcake icing. Gingerbread pie icing jelly danish 
+    chocolate shortbread chocolate cake. Sweet roll topping liquorice gingerbread pastry toffee candy 
+    liquorice lemon drops. Gummi bears bonbon halvah cheesecake sweet roll chocolate cake pudding tiramisu. 
+    Tart jelly beans icing oat cake sweet cotton candy. Cheesecake fruitcake liquorice cheesecake halvah caramels 
+    gingerbread gummies. Dessert dessert gingerbread shortbread dragée sweet. Croissant gummi bears cookie powder 
+    lemon drops biscuit marshmallow sweet dessert. Pie toffee croissant biscuit soufflé marshmallow gummi bears. 
+    Lemon drops biscuit sugar plum cotton candy lollipop powder. Cupcake macaroon fruitcake cake chocolate cake 
+    sesame snaps sweet. Liquorice donut pastry halvah lollipop ice cream sweet caramels. 
+    Icing cake jelly jelly jelly-o fruitcake</p>
+  <h2>Habitat</h2>
+  <h3>Countries with Large Prickly Cactus Populations</h3>
+  <p>Israel, Namibia, Lebanon, Turkey, Mexico</p>
+  <h3>Countries with Small Prickly Cactus Populations</h3>
+  <p>Colombia, England, France, the Netherlands, Peru</p>
+  <h2>Media</h2>
+  </div>
+</section>
+<section>
+  <div id="Date">
+  <h2>Date (Tamar)</h2>
+  <h3>Species</h3>
+  <ul></ul>
+  <h3>Features</h3>
+  <a>Learn More About The Date Species On Wikipedia</a>
+  <h3>Countries Where Dates Are Common</h3>
+  <h3>Countries Where Dates Are Rare</h3>
+  <h2>Media</h2> 
+  </div>
+</section>
+<section class="england">
+  <div id="London">
+  <h2>London Town</h2>
+  <h3>Places to Visit</h3>
+  <ul></ul>
+  <a href="https://en.wikipedia.org/wiki/London">Learn More On Wikipedia</a>
+  <h3>Cities That Are Nearby</h3>
+  <h3>Distance To Other Unseen Places</h3>
+  <h3>Latest Ten Mayors</h3>
+  <h3>Best Cup of Coffee</h3>
+  <h2>Media</h2>
+  </div>
+ 
+  <div id="England">
+  <h2>England</h2>
+  <h3>Things to do in England</h3>
+  <table>
+  <thead>
+    <tr>
+      <th></th>
+      <th scope="col">Saturday</th>
+      <th scope="col">Sunday</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">Morning</th>
+      <td rowspan="2">Work</td>
+      <td rowspan="3">Relax</td>
+    </tr>
+    <tr>
+     <th scope="row">Afternoon</th>
+    </tr>
+    <tr>
+      <th scope="row">Evening</th>
+      <td>Dinner</td>
+    </tr>
+  </tbody>
+</table>
+
+
+  
+  <h3>Features</h3>
+  <h2>Habitat</h2>
+  <h3>Largest Minorities</h3>
+  <h3>Latest Three PM's</h3>
+  <ol></ol>
+  <h2>Media</h2>
+  </div>
+  </section>
+
+  <footer>
+
+ <a href="#top" class="linkcolor">Link to top of the page</a>
+  </footer>
+    </div>
+
+</body>
+</html>
