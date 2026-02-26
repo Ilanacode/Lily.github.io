@@ -1,0 +1,51 @@
+body {
+  
+  margin: 0; /* Remove default margin */
+        height: 100vh; /* Full viewport height */
+        background-image: url('https://www.whiteflowerfarm.com/mas_assets/cache/image/6/6/e/d/26349.Jpg'); /* Path to your image */
+        background-size: cover; /* Scale image to cover entire area */
+        background-position: center; /* Center the image */
+        background-repeat: no-repeat; /* Prevent tiling */
+        background-attachment: fixed; /* Keep image fixed when scrolling */
+        background-color: rgba(255, 255, 255, 0.5);
+        text-align: center;
+        font-family: Helvetica;
+      
+        
+}
+
+table, th, td {
+  border: 1px solid blue;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+/*
+img.lilyimgsize {
+  width: 100%;
+  height: auto;
+  display:block;
+  opacity: 0.3;
+
+}
+*/
+
+.LilyFirstTitle {
+  font-family: Helvetica;
+  font-size: 30px;
+  font-weight:bold;
+  display:block;
+  text-align: center;
+}
+
+.lists {
+  
+  list-style-position: inside;
+  text-align: center;
+  margin: 0;
+  padding: 0; 
+}
+/*
+.linkcolor {
+  color:hotpink;
+}
+  */
